@@ -1,0 +1,1 @@
+00 08 * * 1-5 curl wttr.in/batman > /home/apprenant/Documents/IT_linux_cours/Day03/ex03/Meteo/meteoOfTheDay.txt
