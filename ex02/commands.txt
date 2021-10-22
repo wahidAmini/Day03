@@ -1,0 +1,6 @@
+# command for connecting to other user with his IP adress 
+nc 192.168.1.35 1478
+# command for transfering a file with another user
+cat Wahid.png | nc 192.168.1.35 1478
+# or this command 10 = seconds for sending
+nc -w 10 192.168.1.35 1478 < wahid.png

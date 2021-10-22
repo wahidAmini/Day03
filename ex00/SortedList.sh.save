@@ -1,0 +1,6 @@
+grep -o -i "the" histoire.txt | wc -l
+grep -o -i "is" histoire.txt | wc -l
+grep -o -i "green" histoire.txt | wc -l
+grep -o -i "suny" histoire.txt | wc -l
+grep -o -i "sunny" histoire.txt | wc -l
+grep -o -i "the" histoire.txt | wc -lgrep -o -i "the" histoire.txt | wc -l
